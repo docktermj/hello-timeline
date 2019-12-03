@@ -4,6 +4,6 @@
 
 | Image | Notes |
 | :---: | :---: |
-| ![Image of architecture](architecture.png) | tada1 |
-| ![Image of architecture](architecture.png) | tada2 |
-| ![Image of architecture](architecture.png) | tada3 |
+| ![Image of architecture](bob.png) | tada1 |
+| ![Image of architecture](bob.png) | tada2 |
+| ![Image of architecture](bob.png) | tada3 |
